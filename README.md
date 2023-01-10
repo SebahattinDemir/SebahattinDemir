@@ -79,12 +79,12 @@
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/SebahattinDemir/Patika" title="Patika"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SebahattinDemir&repo=Patika&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/emresari60/api108-113" title="API Instruction"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=emresari60&repo=api108-113&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/SebahattinDemir/CSS" title="CSS"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SebahattinDemir&repo=CSS&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/emresari60/postGreJDBC" title="postGre-JDBC Instruction"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=emresari60&repo=postGreJDBC&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/emresari60/Rock_Paper_Scissor" title="A Game: Rock_Paper_Scissor"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=emresari60&repo=Rock_Paper_Scissor&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/SebahattinDemir/HTML" title="HTML"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SebahattinDemir&repo=HTML&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/SebahattinDemir/Kutuphane-Proje" title="Kutuphane-Proje"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SebahattinDemir&repo=Kutuphane-Proje&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
@@ -98,7 +98,7 @@
 <br><br><br><br><br><br>
 
 <h4 align="center">
-  <a href="https://github.com/emresari60?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/SebahattinDemir?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
 
