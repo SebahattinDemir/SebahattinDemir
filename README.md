@@ -8,7 +8,7 @@
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/sebahattindemir" title="LinkedIn Profile"><img width="22" src="image/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.codewars.com/users/sebo07" title="Codewars Profile"><img width="22" src="image/hackerrank.svg"> Codewars</a></code>
+  <code><a href="https://www.codewars.com/users/sebo07" title="Codewars Profile"><img width="22" src="image/codewars.svg"> Codewars</a></code>
 </h5>
 <br>
 <p align="center">
