@@ -52,6 +52,7 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
+<code><img src="https://raw.githubusercontent.com/ghosharnab00/ghosharnab00/output/github-contribution-grid-snake.svg"></code>
 <p align=center>
   <div align=center>
     <a href="[![GitHub Streak](https://streak-stats.demolab.com/?user=SebahattinDemir)](https://git.io/streak-stats)" title="Go to Source">
