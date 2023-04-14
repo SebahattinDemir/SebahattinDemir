@@ -27,7 +27,7 @@
   <br>
   💬 Ask me anything about from <a href="https://www.linkedin.com/in/sebahattindemir" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: info.sebahattindemir@gmail.com">info.sebahattindemir@gmail.com</a>
+  📫 How to reach me: <a href="mailto: info.sebahattindmr@gmail.com">info.sebahattindmr@gmail.com</a>
 </p>
 
 <hr>
