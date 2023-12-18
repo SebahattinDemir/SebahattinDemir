@@ -11,19 +11,6 @@
   <code><a href="https://www.codewars.com/users/sebo07" title="Codewars Profile"><img width="22" src="image/codewars.svg"> Codewars</a></code>
 </h5>
 <br>
-<p align="center">
-  Hi, I'm Sebahatin Demir, QA Automation Test Engineer from Turkey
-  <br>
-  <br>
-  🔬 I'm currently studying for 
-  <br>
-  🎓 I graduated from 
-  <br>
-  🎓 I graduated from 
-  <br>
-  💻 I love writing code and learn anythings about it
-  <br>
-  📚 I’m currently learning how to build 
   <br>
   💬 Ask me anything about from <a href="https://www.linkedin.com/in/sebahattindemir" title="Issues">Here</a>
   <br>
