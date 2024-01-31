@@ -7,8 +7,8 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/sebahattindemir" title="LinkedIn Profile"><img width="22" src="image/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.codewars.com/users/sebo07" title="Codewars Profile"><img width="22" src="image/codewars.svg"> Codewars</a></code>
+  <code><a href="https://www.linkedin.com/in/sebahattindemir" title="LinkedIn Profile"><img width="22" src="image/linkedin.svg"> LinkedIn</a>
+   <img src="https://camo.githubusercontent.com/44957fe9724cc8b36fc1a11e104bc080618ff645d73746a66a6b44d73d7992f1/68747470733a2f2f7170682e66732e71756f726163646e2e6e65742f6d61696e2d71696d672d6661376234626463336232663733653734396535633263363436643461653133"></code>
 </h5>
 <br>
   <br>
