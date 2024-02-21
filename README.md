@@ -13,15 +13,15 @@
   📫 How to reach me: <a href="mailto: info.sebahattindmr@gmail.com">info.sebahattindmr@gmail.com</a>
 
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-  <h4>🔥 HTML5 🔥</h4>
+  <div align="center" ><div><h4>🔥 HTML5 🔥</h4>
   <h4>🔥 CSS 🔥</h4>
   <h4>🔥 Bootstrap 🔥</h4>
   <h4>🔥 Javascript 🔥</h4>
-  <h4>🔥 React 🔥</h4>
-  <h4>🔥 Java 🔥</h4>
+  <h4>🔥 React 🔥</h4></div>
+  <div><h4>🔥 Java 🔥</h4>
   <h4>🔥 JSON 🔥</h4>
   <h4>🔥 GitHub 🔥</h4>
-  <h4>🔥 MySQL 🔥</h4>
+  <h4>🔥 MySQL 🔥</h4></div></div>
     
 
 <h2 align="center">⚡ Stats ⚡</h2>
