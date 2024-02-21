@@ -1,43 +1,31 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SebahattinDemir.SebahattinDemir">
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Sebahattin+Demir;Nice+to+meet+you!&center=true&size=30">
   </a>
-  <img width="300" height:"100" src="https://camo.githubusercontent.com/44957fe9724cc8b36fc1a11e104bc080618ff645d73746a66a6b44d73d7992f1/68747470733a2f2f7170682e66732e71756f726163646e2e6e65742f6d61696e2d71696d672d6661376234626463336232663733653734396535633263363436643461653133"></code>
+  <img width="300" height:"100" src="https://camo.githubusercontent.com/44957fe9724cc8b36fc1a11e104bc080618ff645d73746a66a6b44d73d7992f1/68747470733a2f2f7170682e66732e71756f726163646e2e6e65742f6d61696e2d71696d672d6661376234626463336232663733653734396535633263363436643461653133" >
 </h1>
-
-<h4 align="center">
-  <code><a href="https://www.linkedin.com/in/sebahattindemir" title="LinkedIn Profile"><img width="30" src="image/linkedin.svg"> LinkedIn</a>
+<h4 >
+ <a href="https://www.linkedin.com/in/sebahattindemir" title="LinkedIn Profile"><img width="30" src="image/linkedin.svg"> LinkedIn</a>
 </h4>
 
   💬 Ask me anything about from <a href="https://www.linkedin.com/in/sebahattindemir" title="Issues">Here</a>
   <br>
   📫 How to reach me: <a href="mailto: info.sebahattindmr@gmail.com">info.sebahattindmr@gmail.com</a>
-</p>
 
-<hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-<br>
-<p align="center">
-  <code><img title="Javascript" height="25" src="image/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="image/problemSolving.svg"></code>
-  <code><img title="HTML5" height="25" src="image/html5.svg"></code>
-  <code><img title="CSS" height="25" src="image/css.svg"></code>
-  <code><img title="Git" height="25" src="image/git-original.svg"></code>
-  </p>
-  
-  <p align="center">
-  <code><img title="PostgreSQL" height="25" src="image/postgresql.svg"></code>
-  <code><img title="Java" height="25" src="image/java-original.svg"></code>
-  <code><img title="JSON" height="25" src="image/json.svg"></code> 
-  <code><img title="GitHub" height="25" src="image/github.svg"></code>
-  <code><img title="MySQL" height="25" src="image/mysql.svg"></code> 
-</p>
-<hr>
+  <h4>🔥 HTML5 🔥</h4>
+  <h4>🔥 CSS 🔥</h4>
+  <h4>🔥 Bootstrap 🔥</h4>
+  <h4>🔥 Javascript 🔥</h4>
+  <h4>🔥 React 🔥</h4>
+  <h4>🔥 Java 🔥</h4>
+  <h4>🔥 JSON 🔥</h4>
+  <h4>🔥 GitHub 🔥</h4>
+  <h4>🔥 MySQL 🔥</h4>
+    
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<code><img align="center" src="https://raw.githubusercontent.com/ghosharnab00/ghosharnab00/output/github-contribution-grid-snake.svg"></code>
+<img align="center" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
 <br>
 <p align=center>
   <div align=center>
@@ -48,12 +36,7 @@
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=SebahattinDemir&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
-  <br><br><br><br><br><br><br><br><br>
-
-  <br>
-  
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SebahattinDemir&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
+  <br><br><br><br><br><br><br><br>
 
 <hr>
 
@@ -74,8 +57,6 @@
   <a align="right" href="https://github.com/SebahattinDemir/Kutuphane-Proje" title="Kutuphane-Proje"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SebahattinDemir&repo=Kutuphane-Proje&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
-
-
 <div width="100%" align="center">
   <a align="left" href="https://github.com/SebahattinDemir/SQL_B103" title="SQL_B103"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SebahattinDemir&repo=SQL_B103&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/SebahattinDemir/JDBC" title="JDBC"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SebahattinDemir&repo=JDBC&theme=react&border_color=61dafb&border_radius=10"></a>
